@@ -1,7 +1,7 @@
 Mortality and morbidity associated with winter weather conditions revealed by machine learning models
 ================================================================================
     
-These are the scripts to analyze winter conditions mortality and morbidity in 5 regions of Quebec, Canada, using different machine learning models. 
+These are the scripts to analyze winter weather conditions and associated mortality and morbidity in 5 regions of Quebec, Canada, using different machine learning models : Lasso, Decision Tree, Random Forest, Light Gradient Boosting and Multi-Layer Perceptron.
 
 - By [Jérémie Boudreault](https://jeremieboudreault.github.io/), Adam Halladja, Félix Lamothe, Éric Lavigne, Céline Campagna and Fateh Chebana
 
