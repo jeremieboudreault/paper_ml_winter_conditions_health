@@ -11,11 +11,9 @@ These are the scripts to analyze winter weather conditions and associated mortal
 
 All scripts were preparer by Adam Halladja, as part of a Mitacs Globalink internship at INRS in 2025. Script are located in the `py/` folder.
 
-- `main_summer.R` : Compute the heat-related mortality during summer months
-- `main_winter.R` : Compute the cold-related mortality during winter months
-- `main_annual.R` : Compute the heat-related and cold-related mortality during all months
 
-For confidentiality, we cannot shrare the health data used to produce the results.
+
+For confidentiality reasons, we cannot share the health data used to produce the results.
 
 ---
 
